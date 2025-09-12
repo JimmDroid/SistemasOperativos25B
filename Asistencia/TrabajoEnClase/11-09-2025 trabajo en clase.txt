@@ -1,0 +1,116 @@
+  109  sudo useradd -u 1089 -d /home/monti -m -s/
+  110  sudo useradd -u 1089 -d /home/monti -m -s/bin/bash antony
+  111  sudo cat /etc/gruop/
+  112  sudo cat /etc/gruop
+  113  sudo cat /ect/gruop
+  114  sudo cat /etc/group
+  115  sudo useradd hazem2 -m -e 2025-09-11
+  116  sudo chage -l hazem2
+  117  sudo useradd hazem2 -m -e 2025-09-20
+  118  sudo chage -e 2025-09-20 hazem2
+  119  sudo chage -l hazem2
+  120  sudo useradd -e 2025-09-21 -f 30 hazen3
+  121  sudo chage -l hazem3
+  122  sudo chage -l hazem2
+  123  sudo passwd juan
+  124  sudo passwd hazem3
+  125  sudo chage -E 2025-09-21 -I 30 hazem3
+  126  sudo change -I 20 hazem3 60
+  127  sudo userdel hazem3
+  128  sudo cat /ect/gruop
+  129  sudo cat /etc/gruop
+  130  sudo cat /etc/gruop/
+  131  sudo cat /etc/group
+  132  sudo userdel -r hazem3
+  133  sudo userdel -r hazen3
+  134  sudo userdel -f hazen3
+  135  sudo cat /etc/group
+  136  sudo chage -I 20 hazen3
+  137  sudo useradd hazem3 -I 20
+  138  sudo chage -l hazem2
+  139  sudo chage -l hazem3
+  140  sudo cat /etc/group
+  141  sudo useradd -E 2025-09-21
+  142  sudo useradd -E 2025-09-21 hazen3
+  143  sudo cat /etc/group
+  144  sudo useradd -E 2025-09-21 hazen3
+  145  sudo chage -E 2025-09-21 hazen3
+  146  sudo useradd -m -e 2025-09-21 hazem
+  147  sudo cat /etc/group
+  148  sudo chage -E 2025-09-15 hazen3
+  149  sudo chage -E 2025-09-15 hazem3
+  150  sudo chage -l hazem3
+  151  sudo chage -I 20 hazem3
+  152  sudo chage -l hazem3
+  153  sudo chage -I 20 hazem3
+  154  sudo chage -l hazem3
+  155  sudo chage -I 22 hazem3
+  156  sudo chage -l hazem3
+  157  sudo chage -I 22 hazem3
+  158  sudo chage -l hazem3
+  159  CLEAR
+  160  clear
+  161  sudo chage -M 90 hazem3
+  162  sudo chage -l hazem3
+  163  sudo chage -M 0 hazem3
+  164  sudo chage -l hazem3
+  165  sudo chage -M 22 hazem3
+  166  sudo chage -l hazem3
+  167  cd
+  168  celar
+  169  clear
+  170  sudo adduser fonseca
+  171  sudo cat /ect/group
+  172  sudo cat /etc/group
+  173  sudo chage -l fonseca
+  174  sudo chage -e 202
+  175  sudo chage -E 2025-09-12 fonseca
+  176  sudo chage -l fonseca
+  177  sudo adduser --allow-bad-names fonseca
+  178  sudo adduser --allow-bad-names Jimmy
+  179  sudo adduser --allow-bad-names Alvarez
+  180  sudo adduser --allow-bad-names Alvare
+  181  history
+  182  ps aux | grep user
+  183  sudo kill -9 <PID>
+  184  sudo kill -17 <PID>
+  185  ls /etc/*.lock
+  186  sudo ls /etc/*.lock
+  187  sudo kill -9 <PID>
+  188  sudo kill -Ss <PID>
+  189  sudo kill -T <PID>
+  190  sudo ls /etc/passwd.lock
+  191  ls /etc/passwd.lock
+  192  sudo rm /etc/shadow.lock
+  193  sudo rm /etc/passwd.lock
+  194  sudo adduser --allow-bad-names Alvarez
+  195  getent passwd Alvarez
+  196  sudo rm -f /etc/passwd.lock /etc/shadow.lock /etc/group.lock /etc/gshadow.lock
+  197  sudo rm -f /etc/passwd.lock /etc/shadow.lock /etc/group.lock /etc/gshadow.lock
+  198  sudo pkill -9 adduser
+  199  ps aux | grep user
+  200  sudo pkill -7 adduser
+  201  ps aux | grep user
+  202  sudo adduser --allow-bad-names Alvarez
+  203  su Alvarez
+  204  sudo groupadd -g1024 admins
+  205  sudo cat/ect/group
+  206  sudo cat/etc/group
+  207  sudo cat /etc/group
+  208  sudo cat/etc/passwd
+  209  sudo cat/etc/passwod
+  210  sudo gpasswd -a Alvarez admins
+  211  sudo cat /etc/group
+  212  sudo cat /etc/passwod
+  213  sudo cat /etc/passwd
+  214  sudo gpasswd -a Fonseca admins
+  215  sudo gpasswd -a fonseca admins
+  216  sudo cat /etc/passwd
+  217  sudo cat /etc/group
+  218  sudo groupmod -g 1025 admins
+  219  sudo cat /etc/group
+  220  sudo groupmod -n admins admons
+  221  sudo groupmod -n admons admins
+  222  sudo cat /etc/group
+  223  sudo groupdel admons
+  224  sudo cat /etc/group
