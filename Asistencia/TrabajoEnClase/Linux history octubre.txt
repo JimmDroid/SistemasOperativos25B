@@ -1,0 +1,962 @@
+jimmy@JimmyPC:/home$ history | sudo tee comandos09Oct25.txt
+    1  sudo apt install curl
+    2  sudo apt install curl -y
+    3  sudo apt update
+    4  sudo apt install curl -y
+    5  curl --version
+    6  curl https://www.google.com/?zx=1757097032668&no_sw_cr=1
+    7  ;
+    8  curl https://www.google.com/?zx=1757097032668&no_sw_cr=1
+    9  clear
+   10  sudo apt install tmux
+   11  tmux -V
+   12  tmux
+   13  sudo apt install bleachbit -y
+   14  bleachbit --version
+   15  clear
+   16  bleachbit --version
+   17  bleachbit
+   18  sudo bleachbit
+   19  bleachbit --list
+   20  bleachbit --preview system.cache system.tmp
+   21  bleachbi
+   22  sudo bleachbi
+   23  bleachbit
+   24  cleatr
+   25  clear
+   26  bleachbit
+   27  exit
+   28  ls
+   29  sudo mv "Tarea_08_09_2025.pdf" /home/Canny/Asistencia/TrabajoEnClase/
+   30  cd ..
+   31  cd Canny
+   32  cd Asistencia
+   33  cd TrabajoEnClase
+   34  ls
+   35  cd ..
+   36  cd..
+   37  cd ..
+   38  clear
+   39  sudo git add Asistencia
+   40  sudo git commit -m "Trabajo_de_08_09_2025"
+   41  sudo git push -u origin main
+   42  exit
+   43  ls
+   44  sudo mv "Trabajo_Clase_5septiembre_25" /home/Canny/Asistencia/TrabajoEnClase/
+   45  cd ..
+   46  cd Canny
+   47  cd Asistencia
+   48  cdTrabajoEnClase
+   49  cd TrabajoEnClase
+   50  ls
+   51  cd ..
+   52  git add Asistencia
+   53  sudo git add Asistencia
+   54  ls -la
+   55  exit
+   56  cd ..
+   57  cd Canny
+   58  sudo git add Asistencia
+   59  ls
+   60  sudo git add Asistencia
+   61  sudo git push -u origin main
+   62  sudo git add Asistencia
+   63  cd
+   64  cd ..
+   65  cd Canny
+   66  sudo git add Asistencia
+   67  git pull origin main --rebase
+   68  sudo git pull origin main --rebase
+   69  sudo git add Asistencia
+   70  sudo git commit -m "trabajo hoy"
+   71  ps aux | grep git
+   72  kill -9 <PID>
+   73  sudo kill -9 <PID>
+   74  rm -f /home/Canny/.git/index.lock
+   75  sudo rm -f /home/Canny/.git/index.lock
+   76  ps aux | grep git
+   77  sudo git add Asistencia
+   78  rm -f /home/Canny/.git/index.loc
+   79  rm -f /home/Canny/.git/ grep --color=auto git
+   80  rm -f /home/Canny/.git/grep --color=auto git
+   81  exit
+   82  echo ya teacher ya dejenos salir
+   83  echo ya teacher ya vamos a la tiendira
+   84  echo no teacher no
+   85  echo tengo cancer
+   86  clear
+   87  cd
+   88  cd ..
+   89  ls
+   90  echo uno.txt
+   91  sudo cat uno.txt
+   92  echo que chingue su madre el pri
+   93  sudo create user uriel
+   94  echo ya valimos verga el semestre
+   95  celafr
+   96  clear
+   97  sudo cat /ect/passwod
+   98  sudo cat /ect/password
+   99  sudo cat /ect/passwor
+  100  sudo cat /ect/passwd
+  101  sudo cat /etc/passwd
+  102  sudo cat /etc/group
+  103  clear
+  104  sudo cat /shadow
+  105  sudo cat /ect/shadow
+  106  sudo cat /ect/shado
+  107  echo me voy a dormir
+  108  echo chau chau
+  109  sudo useradd -u 1089 -d /home/monti -m -s/
+  110  sudo useradd -u 1089 -d /home/monti -m -s/bin/bash antony
+  111  sudo cat /etc/gruop/
+  112  sudo cat /etc/gruop
+  113  sudo cat /ect/gruop
+  114  sudo cat /etc/group
+  115  sudo useradd hazem2 -m -e 2025-09-11
+  116  sudo chage -l hazem2
+  117  sudo useradd hazem2 -m -e 2025-09-20
+  118  sudo chage -e 2025-09-20 hazem2
+  119  sudo chage -l hazem2
+  120  sudo useradd -e 2025-09-21 -f 30 hazen3
+  121  sudo chage -l hazem3
+  122  sudo chage -l hazem2
+  123  sudo passwd juan
+  124  sudo passwd hazem3
+  125  sudo chage -E 2025-09-21 -I 30 hazem3
+  126  sudo change -I 20 hazem3 60
+  127  sudo userdel hazem3
+  128  sudo cat /ect/gruop
+  129  sudo cat /etc/gruop
+  130  sudo cat /etc/gruop/
+  131  sudo cat /etc/group
+  132  sudo userdel -r hazem3
+  133  sudo userdel -r hazen3
+  134  sudo userdel -f hazen3
+  135  sudo cat /etc/group
+  136  sudo chage -I 20 hazen3
+  137  sudo useradd hazem3 -I 20
+  138  sudo chage -l hazem2
+  139  sudo chage -l hazem3
+  140  sudo cat /etc/group
+  141  sudo useradd -E 2025-09-21
+  142  sudo useradd -E 2025-09-21 hazen3
+  143  sudo cat /etc/group
+  144  sudo useradd -E 2025-09-21 hazen3
+  145  sudo chage -E 2025-09-21 hazen3
+  146  sudo useradd -m -e 2025-09-21 hazem
+  147  sudo cat /etc/group
+  148  sudo chage -E 2025-09-15 hazen3
+  149  sudo chage -E 2025-09-15 hazem3
+  150  sudo chage -l hazem3
+  151  sudo chage -I 20 hazem3
+  152  sudo chage -l hazem3
+  153  sudo chage -I 20 hazem3
+  154  sudo chage -l hazem3
+  155  sudo chage -I 22 hazem3
+  156  sudo chage -l hazem3
+  157  sudo chage -I 22 hazem3
+  158  sudo chage -l hazem3
+  159  CLEAR
+  160  clear
+  161  sudo chage -M 90 hazem3
+  162  sudo chage -l hazem3
+  163  sudo chage -M 0 hazem3
+  164  sudo chage -l hazem3
+  165  sudo chage -M 22 hazem3
+  166  sudo chage -l hazem3
+  167  cd
+  168  celar
+  169  clear
+  170  sudo adduser fonseca
+  171  sudo cat /ect/group
+  172  sudo cat /etc/group
+  173  sudo chage -l fonseca
+  174  sudo chage -e 202
+  175  sudo chage -E 2025-09-12 fonseca
+  176  sudo chage -l fonseca
+  177  sudo adduser --allow-bad-names fonseca
+  178  sudo adduser --allow-bad-names Jimmy
+  179  sudo adduser --allow-bad-names Alvarez
+  180  sudo adduser --allow-bad-names Alvare
+  181  history
+  182  ps aux | grep user
+  183  sudo kill -9 <PID>
+  184  sudo kill -17 <PID>
+  185  ls /etc/*.lock
+  186  sudo ls /etc/*.lock
+  187  sudo kill -9 <PID>
+  188  sudo kill -Ss <PID>
+  189  sudo kill -T <PID>
+  190  sudo ls /etc/passwd.lock
+  191  ls /etc/passwd.lock
+  192  sudo rm /etc/shadow.lock
+  193  sudo rm /etc/passwd.lock
+  194  sudo adduser --allow-bad-names Alvarez
+  195  getent passwd Alvarez
+  196  sudo rm -f /etc/passwd.lock /etc/shadow.lock /etc/group.lock /etc/gshadow.lock
+  197  sudo rm -f /etc/passwd.lock /etc/shadow.lock /etc/group.lock /etc/gshadow.lock
+  198  sudo pkill -9 adduser
+  199  ps aux | grep user
+  200  sudo pkill -7 adduser
+  201  ps aux | grep user
+  202  sudo adduser --allow-bad-names Alvarez
+  203  su Alvarez
+  204  sudo groupadd -g1024 admins
+  205  sudo cat/ect/group
+  206  sudo cat/etc/group
+  207  sudo cat /etc/group
+  208  sudo cat/etc/passwd
+  209  sudo cat/etc/passwod
+  210  sudo gpasswd -a Alvarez admins
+  211  sudo cat /etc/group
+  212  sudo cat /etc/passwod
+  213  sudo cat /etc/passwd
+  214  sudo gpasswd -a Fonseca admins
+  215  sudo gpasswd -a fonseca admins
+  216  sudo cat /etc/passwd
+  217  sudo cat /etc/group
+  218  sudo groupmod -g 1025 admins
+  219  sudo cat /etc/group
+  220  sudo groupmod -n admins admons
+  221  sudo groupmod -n admons admins
+  222  sudo cat /etc/group
+  223  sudo groupdel admons
+  224  sudo cat /etc/group
+  225  hisroty
+  226  history
+  227  exit
+  228  history
+  229  history
+  230  sudo useradd Usuario1
+  231  sudo useradd Usuario2
+  232  sudo useradd Usuario3
+  233  sudo userdel Usuario2
+  234  sudo userdel Usuario1
+  235  sudo userdel Usuario3
+  236  sudo useradd Usuario1
+  237  sudo userdel Usuario1
+  238  clear
+  239  sudo useradd Usuario1
+  240  sudo userdel Usuario1
+  241  clear
+  242  history
+  243  sudo useradd Usuario1
+  244  sudo adduser --allow-bad-names Usuario2
+  245  sudo userdel Usuario1
+  246  sudo adduser --allow-bad-names Usuario1
+  247  sudo groupadd DevOps
+  248  cd ..
+  249  cd Canny
+  250  ls
+  251  sudo Usuario1
+  252  su Usuario1
+  253  clear
+  254  echo chanclas
+  255  echo ya profaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa dejenos salirrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+  256  clear
+  257  su Usuario1
+  258  echo si
+  259  echo si  bro
+  260  clear
+  261  sudo grasswd -a Usuario1 DevOps
+  262  sudo grassd -a Usuario1 DevOps
+  263  sudo gpasswd -a Usuario1 DevOps
+  264  sudo gpasswd -a Usuario2 DevOps
+  265  sudo usermod -e 2025-09-14 Usuario2
+  266  sudo mkdir /Developer
+  267  sudo chown Usuario2:Usuario2 /Developer
+  268  su Usuario1
+  269  su Usuario2
+  270  history
+  271  sudo passwd Usuario2
+  272  su Usuario2
+  273  sudo cat /etc/group
+  274  clear
+  275  l -la
+  276  history
+  277  sudo usermod Alvarez
+  278  sudo usermod -l Alvarez
+  279  sudo usermod -L Alvarez
+  280  su Alvarez
+  281  sudo passwd Alvarez
+  282  su Alvarez
+  283  sudo userdel Alvarez
+  284  sudo cat /etc/group
+  285  sudo cat /etc/user
+  286  sudo apt get install ufw -Y
+  287  sudo apt get install ufw -y
+  288  sudo apt-get install ufw -y
+  289  sudo ifw status verbase
+  290  sudo ufw status verbase
+  291  sudo ufw eanable
+  292  sudo ufw enable
+  293  sudo ufw status verbase
+  294  clear
+  295  sudo ufw status verbose
+  296  google -I
+  297  hoogle -I
+  298  sudo ufw status verbose
+  299  sudo ufw deny from 31.13.93.35
+  300  sudo ufw status verbose
+  301  ping 31.13.93.35
+  302  sudo ufw app list
+  303  clear
+  304  exit
+  305  sudo cat /etc/shadow
+  306  su Fonseca
+  307  su FONSECA
+  308  su fonseca
+  309  sudo change -l fonseca
+  310  sudo chage -l fonseca
+  311  sudo passwd fonseca
+  312  su fonseca
+  313  sudo cat /etc/passwd
+  314  sudo passwd alonso
+  315  sudo passwd Alonso
+  316  sudo passwd Alverez
+  317  sudo passwd alverez
+  318  sudo change -l alonso
+  319  sudo adduser Aby
+  320  sudo adduser --allow-bad-names-Aby
+  321  sudo adduser --allow-bad-names Aby
+  322  su Aby
+  323  clear
+  324  ls -l
+  325  ls -la
+  326  cd /etc
+  327  su -l
+  328  ls -l
+  329  sudo visudo
+  330  cd ../
+  331  pwd
+  332  celar
+  333  lcaer
+  334  clear
+  335  sudo cat /etc/group/
+  336  sudo cat /etc/group
+  337  sudo gpasswd -a adm
+  338  sudo gpasswd -Abi adm
+  339  sudo gpasswd - Abi adm
+  340  sudo gpasswd -Abi adm
+  341  sudo gpasswd -abi adm
+  342  sudo gpasswd -a Abi adm
+  343  sudo gpasswd -a Aby adm
+  344  sudo cat /etc/group
+  345  su Aby
+  346  sudo visudo
+  347  sudo cat /etc/shadow/
+  348  sudo cat /etc/shadow
+  349  sudo -k
+  350  sudo cat /etc/shadow
+  351  sudo -k
+  352  sudo apt-get
+  353  sudo apt-get update
+  354  sudo -v
+  355  sudo apt-get update
+  356  sudo cat /etc/passwd
+  357  sudo apt get install java
+  358  sudo apt get install Java
+  359  sudo apt-get install Java
+  360  sudo Systemctl status ssh
+  361  sudo systemctl status ssh
+  362  exit
+  363  clear
+  364  sudo -l
+  365  sudo cat /etc/group
+  366  claer
+  367  clear
+  368  sudo visudo
+  369  sudo cat /etc/group
+  370  sudo -k
+  371  sudo cat /etc/group
+  372  sudo visudo
+  373  su Aby
+  374  cd
+  375  sudo Aby
+  376  su Aby
+  377  clear
+  378  sudo userdel -r Aby
+  379  sudo groupdel Aby
+  380  sudo visudo
+  381  sudo deluser Aby admin
+  382  sudo deluser Aby sudo
+  383  sudo cat /etc/group
+  384  clear
+  385  history
+  386  sudo adduser --allow-bad-names-USER1
+  387  sudo adduser --allow-bad-names USER1
+  388  exit
+  389  history
+  390  sudo cat /etc/user
+  391  sudo cat /etc/shadow
+  392  clear
+  393  historey
+  394  clear
+  395  sudo gpasswd -a USER1 adm
+  396  sudo cat /etc/shadow
+  397  sudo cat /etc/group
+  398  su USER1
+  399  clear
+  400  sudo visudo
+  401  CLEAR
+  402  clear
+  403  su USER1
+  404  history
+  405  sudo visudo
+  406  su USER1
+  407  exit
+  408  ufw --version
+  409  sudo ufw status verbose
+  410  sudo ufw enable
+  411  sudo ufw disable
+  412  sudo ufw status verbose
+  413  sudo ufw enable
+  414  sudo ufw status verbose
+  415  sudo ufw disable
+  416  sudo ufw satatus
+  417  sudo ufw enable
+  418  sudo ufw satatus
+  419  sudo ufw status
+  420  sudo ufw app list
+  421  claer
+  422  lear
+  423  clear
+  424  sudo nano /etc/default/ufw
+  425  sudo ufw default deny incoming
+  426  sudo ufw default allow outgoing
+  427  clear
+  428  sudo ufw allow ssh
+  429  sudo ufw status
+  430  sudo cat services
+  431  sudo cat service
+  432  sudo cat services
+  433  cd /etc
+  434  sudo cat services
+  435  clear
+  436  cd ../
+  437  pwd
+  438  sudo ufw allow 22
+  439  sudo ufw status
+  440  sudo ufw allow 222
+  441  sudo ufw status
+  442  sudo ufw disable
+  443  sudo ufw status
+  444  sudo -v
+  445  sudo -k
+  446  ufw status
+  447  sudo -v
+  448  sudo ufw status
+  449  sudo -k
+  450  sudo ufw status
+  451  sudo -v
+  452  sudo ufw status
+  453  sudo ufw enable
+  454  sudo ufw status
+  455  sudo ufw allow http
+  456  sudo ufw default deny incoming
+  457  sudo ufw default allow outgoing
+  458  clear
+  459  sudo ufw allow 6000:60007/tcp
+  460  sudo ufw allow 6000:6007/tcp
+  461  sudo ufw allow 6000:6007/utp
+  462  sudo ufw allow 6000:6007/udp
+  463  sudo ufw status
+  464  ping https://www.uaemex.mx/
+  465  ping www.uaemex.mx
+  466  ping es.wikipedia.org
+  467  ping www.youtube.com
+  468  clear
+  469  sudo ufw allow from 192.178.56.78
+  470  sudo ufw status
+  471  CLEAR
+  472  clear
+  473  cd ..
+  474  pwd
+  475  status
+  476  ufw status
+  477  sudo ufw allow from 192.178.56.78 to any port 22
+  478  sudo ufw status
+  479  sudo ufw allow from 192.178.56.78/24
+  480  sudo ufw status
+  481  sudo ufw allow from 192.178.56.78/31
+  482  sudo ufw status
+  483  sudo ufw allow from 192.178.56.78/30 to any port 22
+  484  clear
+  485  ip addr
+  486  clear
+  487  sudo ufwnallow in on et0 to any port 80
+  488  sudo ufw allow in on et0 to any port 80
+  489  sudo ufw status
+  490  cleat
+  491  claer
+  492  clear
+  493  sudo apt install mysql
+  494  sudo apt get update
+  495  cd
+  496  sudo apt get update
+  497  sudo apt-get update
+  498  sudo apt install mysql-server
+  499  sudo apt install mysql-server -Y
+  500  sudo apt install mysql-server -y
+  501  sudo ufw deny htto
+  502  sudo ufw deny http
+  503  sudo ufw satatus
+  504  sudo ufw status
+  505  sudo ufw deny 192.178.56.78
+  506  sudo ufw deny '192.178.56.78'
+  507  sudo ufw deny 192.178.56.78 pront
+  508  sudo ufw deny from 192.178.56.78
+  509  sudo ufw status
+  510  clear
+  511  sufo ufw status numberd
+  512  sufo ufw status numbered
+  513  sudo ufw status numbered
+  514  sudo ufw delete allow 80
+  515  sudo ufw status
+  516  sudo ufw status numbered
+  517  clear
+  518  sudo ufw status numbered
+  519  sudo ufw status verbose
+  520  exit
+  521  sudo apt update
+  522  sudo apt-get install iptables
+  523  sudo iptables -inL
+  524  sudo iptables -InL
+  525  sudo iptables -INL
+  526  sudo iptables -nL
+  527  clear
+  528  sudo apt update
+  529  sudo apt install ufw openssh-server -y
+  530  sudo service ssh start
+  531  sudo ufw allow ssh
+  532  sudo ufw allow 22/tcp
+  533  sudo ufw allow 2222/tcp
+  534  sudo nano /etc/ssh/sshd_config
+  535  sudo service ssh restart
+  536  sudo ufw allow http
+  537  sudo ufw allow https
+  538  sudo ufw enable
+  539  sudo ufw status
+  540  cd ..
+  541  sudo cat fonseca.txt
+  542  sudo cat Fonseca.txt
+  543  claer
+  544  clear
+  545  touch fonseca.txt
+  546  cd
+  547  touch fonseca.txt
+  548  ls -l
+  549  touch monosaurio.txt
+  550  ls -l
+  551  sudo nano fonseca.txt
+  552  sudo nano monosaurio.txt
+  553  sudo cat Fonseca.txt
+  554  sudo cat fonseca.txt
+  555  sudo cat monosaurio.txt
+  556  cat fonseca.txt monosaurio.txt > salida.txt
+  557  ls -l
+  558  cat salida.txt
+  559  cat monosaurio.txt fonseca.txt >> salida1.txt
+  560  ls -l
+  561  cat salida1.txt
+  562  cat monosaurio.txt fonseca.txt >> salida.txt
+  563  cat salida.txt
+  564  cat fonseca.txt monosaurio.txt >> salida.txt
+  565  cat salida.txt
+  566  cat monosaurio.txt fonseca.txt > salida.txt
+  567  cat salida.txt
+  568  cat fonseca.txt monosaurio.txt salida.txt > outpout.txt
+  569  cat output.txt
+  570  cat outpout.txt
+  571  clear
+  572  sudo apt update
+  573  sudo apt-get install openssh-server
+  574  clear
+  575  ls -l
+  576  clear
+  577  ls -l
+  578  cd Documents
+  579  pwd
+  580  touch uno.txt
+  581  ls -l
+  582  exit
+  583  sudo netstat -lpn
+  584  sudo netstat -tlpn
+  585  sudo systemctl status ssh
+  586  q
+  587  cd etc/shh/
+  588  cd etc/shh
+  589  cd etc/ssh
+  590  cd etc/ssh/
+  591  cd /etc/ssh
+  592  ls -l
+  593  sudo nano shhd_confing
+  594  sudo nano shhd_confin
+  595  sudo nano shhd_config
+  596  sudo nano sshd_config
+  597  sudo cp ssh_confife(,.bak=
+  598  sudo cp ssh_config(,.bak=
+  599  sudo cp ssh_config(,.bak)
+  600  sudo cp ssh_config(,.bak}
+  601  sudo cp ssh_config{,.bak}
+  602  ls -l
+  603  sudo cp ssh_config{,.txt}
+  604  ls -l
+  605  sudo nano sshd_config
+  606  sudo systemctl start ssh
+  607  sudo systemctl restart ssh
+  608  sudo systemctl status
+  609  clear
+  610  cd
+  611  hostname -I
+  612  ifconfig
+  613  pwd
+  614  sudo cat /etc/paswwd
+  615  sudo cat /etc/passwd
+  616  clear
+  617  sudo cat /etc/passwd
+  618  sudo cat /etc
+  619  clear
+  620  sudo cat /etc/passwd
+  621  sudo userdel abi antony
+  622  clear
+  623  sudo cat /etc/passwd
+  624  sudo su
+  625  history
+  626  sudo cat /etc/passwd
+  627  sudo userdel abi Usuario2
+  628  sudo userdel Usuario2
+  629  sudo userdel Usuario1
+  630  sudo userdel USER1
+  631  sudo cat /etc/passwd
+  632  sudo adduser --allow-bad-names-TeamScrum
+  633  sudo adduser --allow-bad-names TeamScrum
+  634  sudo cat /etc/passwd
+  635  sudo usermod -l abi TeamScrum
+  636  sudo cat /etc/passwd
+  637  clear
+  638  sudo cat /etc/passwd
+  639  sudo usermod -aG TeamScrum abi
+  640  sudo cat /etc/passwd
+  641  sudo cat /etc/group
+  642  history
+  643  sudo chage -l abi
+  645  sudo chage -E 2025-09-27 abi
+  646  sudo chage -l abi
+  647  sudo passwd abi
+  648  clear
+  649  cd ..
+  650  ls -l
+  651  clear
+  652  sudo nano MyPer25B.txt
+  653  sudo nano SisOpe25B.txt
+  654  clear
+  655  history
+  656  cat MyPer25B.txt SisOpe25B.txt > SO25B.txt
+  657  sudo cat MyPer25B.txt SisOpe25B.txt > SO25B.txt
+  658  cat  SO25B.txt
+  659  cat MyPer25B.txt SisOpe25B.txt > SO25B.txt
+  660  cat MyPer25B.txt SisOpe25B.txt > sO25B.txt
+  661  cat MyPer25B.txt SisOpe25B.txt > salida2.txt
+  662  sudo cat MyPer25B.txt SisOpe25B.txt > SO25B.txt
+  663  sudo su
+  664  cat SO25B.txt
+  665  sudo su
+  666  cat  UltCon2025B.txt
+  667  sudo usermod -aG sudo abi
+  668  sudo systemctl status ssh
+  669  udo nano sshd_config
+  670  sudo nano sshd_config
+  671  sudo cp ssh_config{,.bak}
+  672  sudo cp ssh_config{,.txt}
+  673  clear
+  674  sudo visudo
+  675  sudo cat /etc/shh/shhd_confing
+  676  sudo cat /etc/shh/sshd_confing
+  677  sudo cat /etc/shh/sshd_config
+  678  cat /etc/ssh/sshd_config
+  679  sudo systemctl restart ssh
+  680  sudo systemctl restart
+  681  sudo su
+  682  ssh abi@IP_DEL_SERVIDOR
+  683  history
+  684  sudo nano sshd_config
+  685  history
+  686  sudo systemctl status
+  687  clear
+  688  hostname -I
+  689  sudo abi
+  690  sudo su abi
+  691  exit
+  692  sudo useradd --allow-bad-names Axel
+  693  sudo adduser --allow-bad-names Axel
+  694  history
+  695  sudo sudo usermod -aG Alex Brandon
+  696  sudo cat /etc/passwd
+  697  sudo usermod -l Alex Brandon
+  698  sudo usermod -l Brandon Alex
+  699  sudo usermod -l Brandon Axel
+  700  sudo cat /etc/passwd
+  701  sudo groupadd TeamScrum
+  702  sudo groupadd TeamScrum1
+  703  sudo chage -l Brandon
+  704  sudo chage -d 02/10/2025
+  705  sudo chage -d 02-10-2025
+  706  sudo chage -d 2025-10-02
+  707  sudo chage -d 2025-10-02 Brandon
+  708  sudo chage -E 2025-10-03 Brandon
+  709  sudo chage -l Brandon
+  710  sudo passwd Brandon
+  711  su Brandon
+  712  exit
+  713  sudo usermod -a -G sudo Brandon
+  714  su Brandon
+  715  sudo apt install IPTABLES -y
+  716  sudo apt install iptables -y
+  717  iptables -P INPUT DROP
+  718  sudo iptables -P INPUT DROP
+  719  sudo iptables -P FOWARD DROP
+  720  sudo iptables -P FORWARD DROP
+  721  sudo iptables -P OUTPUT ACCEPT
+  722  sudo iptables -L
+  723  clear
+  724  echo yaaaaaaaaaaa
+  725  clear
+  726  iptables -F INPUT
+  727  sudo iptables -F INPUT
+  728  sudo iptables -F FOWARD
+  729  sudo iptables -F FORWARD
+  730  sudo iptables -F FORW
+  731  sudo iptables -F OUTPUT
+  732  sudo iptables -T nat
+  733  sudo iptables -F -t nat
+  734  sudo iptables -L
+  735  sudo cat /tmp/crontab.hfSYLV/crontab
+  736  crontab -l
+  737  exit
+  738  crontab -l jimmy
+  739  crontab -l
+  740  sudo crontab -l
+  741  su
+  742  su jimmy
+  743  exit
+  744  sudo+
+  745  sudo
+  746  su
+  747  clear
+  748  super
+  749  crontab -e
+  750  crontab -e 2
+  751  crontab -e
+  752  crontab -e /usr/bin/vim.basic
+  753  sudo crontab -
+  754  sudo crontab -e
+  755  sudo 1 crontab -e
+  756  sudo 1crontab -e
+  757  sudo crontab -e
+  758  exit
+  759  sudo crontab -e
+  760  crontab -e
+  761  clear
+  762  1 crontab -e
+  763  crontab -e 3
+  764  1 crontab -3
+  765  crontab -e2
+  766  crontab -e
+  767  su abi
+  768  crontab -l
+  769  crontab -el
+  770  crontab -n
+  771  crontab -i
+  772  crontab -r
+  773  crontab -e
+  774  touch crontab
+  775  ls -l
+  776  nano crontab
+  777  sudo rmkdir crontab
+  778  sudo rmdir crontab
+  779  crontab -e
+  780  sudo crontab -e
+  781  sudo rm crontab
+  782  ls -l
+  783  sudo crontab -e
+  784  su
+  785  tset, rese
+  786  unalias crontab -e
+  787  unalias -
+  788  unalias -a
+  789  sudo crontab -e
+  790  crontab -e
+  791  crontab -l
+  792  grep CRON /var/log/syslog
+  793  crontab -e
+  794  ls -l /tmp/crontab.hfSYLV/crontab
+  795  ls -l /tmp/crontab.hfSYLV/crontab;
+  796  crontab /var/spool/cron/crontabs/
+  797  crontab
+  798  clear
+  799  crontab /var/spool/cron/crontabs/
+  800  crontab -e
+  801  crontab -e -l
+  802  crontab -ñ
+  803  crontab -l
+  804  crontab -u jimmy
+  805  crontab -u
+  806  crontab -u USUARIO -l
+  807  crontab -u jimmy -l
+  808  crontab -u jimmy -e
+  809  sudo adduser dario
+  810  su dario
+  811  crontab -e
+  812  clear
+  813  sudo iptables -L
+  814  sudo iptables -L -v
+  815  sudo iptables -nL
+  816  sudo iptables -P INPUT DROP
+  817  sudo iptables -L -v
+  818  sudo iptables -A FORWARD -i ethi -o ethe -j ACEPT
+  819  sudo iptables -A FORWARD -i ethi -o ethe -j ACCEPT
+  820  sudo iptables -L -v
+  821  sudo iptables -A INPUT -i ethi -o ethe -j ACCEPT
+  822  sudo iptables -A INPUT -i ethi -j ACCEPT
+  823  sudo iptables -L -v
+  824  sudo iptables -A FORWARD -i ethi -o ethe -m state --state ESTABLISHED,RELATED +-j ACCEPT
+  825  sudo iptables -A FORWARD -i ethi -o ethe -m state --state ESTABLISHED,RELATED -j ACCEPT
+  826  sudo iptables -L -v
+  827  sudo iptables -A OUTPUT -i ethi -o ethe -m state --state ESTABLISHED,RELATED -j ACCEPT
+  828  sudo iptables -A OUTPUT -o ethe -m state --state ESTABLISHED,RELATED -j ACCEPT
+  829  sudo iptables -L -v
+  830  sudo iptables -A INPUT -o ethe -m state --state ESTABLISHED,RELATED -j ACCEPT
+  831  sudo iptables -A INP
+  832  sudo iptables -L -v
+  833  sudo iptables -A INPUT -i lo -s 0/0 -d  0/0 -j ACCEPT
+  834  sudo iptables -L -v
+  835  sudo iptables -A POSTROUTIMG -t nat -s 192.168.0.0/24 -o eth0 -j SWAT --to-source 1.1.1.1
+  836  sudo iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SWAT --to-source 1.1.1.1
+  837  sudo apt update iptables -y
+  838  sudo apt-get update iptables -y
+  839  sudo apt-get install iptables -y
+  840  sudo apt-get upgraded iptables -y
+  841  sudo apt-get upgrade iptables -y
+  842  sudo iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SWAT --to-source 1.1.1.1
+  843  sudo iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+  844  sudo iptables -L -v
+  845  sudo iptables -L
+  846  sudo iptables -nL
+  847  sudo iptables -t nat -L -v
+  848  sudo iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+  849  sudo iptables -t nat -L -v
+  850  sudo iptables -nL
+  851  sudo iptables -L -v
+  852  exit
+  853  uptime
+  854  time
+  855  time clear
+  856  clear
+  857  time
+  858  uptime
+  859  time
+  860  top
+  861  top -3
+  862  top -d 5
+  863  top -b
+  864  top -1
+  865  top 1
+  866  top -1
+  867  top
+  868  top -d 1
+  869  top
+  870  ps -o s
+  871  ps -l
+  872  ps -s
+  873  ps -t
+  874  ps -m
+  875  ps -orest
+  876  ps -forest
+  877  ps -t
+  878  pstree
+  879  clear
+  880  vmstart
+  881  vmstat
+  882  vmstat -a
+  883  vmstat -f
+  884  vmstat -t
+  885  vmstat -d
+  886  vmstat -n
+  887  vmstat 2
+  888  vmstat 1
+  889  vmstat 5
+  890  vmstat s
+  891  vmstat -s
+  892  free
+  893  fre -s t
+  894  fre -st
+  895  fre -s t
+  896  free -s t
+  897  free -s 2
+  898  free -c 3
+  899  free -c 1
+  900  free -c 10
+  901  free -t
+  902  free df -h
+  903  df -i
+  904  df -h
+  905  df -df -T
+  906  de -df -T
+  907  du /home
+  908  cd
+  909  ls -l
+  910  sy sh du -home
+  911  du -hone
+  912  du all
+  913  du  all -home
+  914  du  all /home
+  915  cd ..
+  916  cat /ect/shelis
+  917  cat /ect/shells
+  918  cat /ect/shells/
+  919  cat /ect/shells
+  920  cat /etc/shells
+  921  su
+  922  sudo su
+  923  sudo nano primer.sh
+  924  ls -l
+  925  sudo chmod +x primer.sh
+  926  ls -l
+  927  ./primer.sh
+  928  nano primer.sh
+  929  sudo nano primer.sh
+  930  ./primer.sh
+  931  nano actualizar.sh
+  932  sudo nano actualizar.sh
+  933  sudo chmod +x actualizar.sh
+  934  ./primer.sh
+  935  ./actualizar.sh
+  936  sudo nano actualizar.sh
+  937  ./actualizar.sh
+  938  sudo history > comandos09Oct25.txt
+  939  sudo history
+  940  cd ..
+  941  sudo history
+  942  sudo history > comandos09Oct25.txt
+  943  ls
+  944  ls -a
+  945  ls -la
+  946  sudo history > comandos09Oct25.txt
+  947  su sudo
+  948  exit
+  949  cd ..
+  950  su sudo
+  951  cd
+  952  su sudo
+  953  su
+  954  su sudo
+  955  sudo su
+  956  histoy
+  957  history
+  958  cd ..
+  959  ls -l
+  960  sudo history > comandos09Oct25.txt
+  961  history > comandos09Oct25.txt
+  962  history | sudo tee comandos09Oct25.txt
