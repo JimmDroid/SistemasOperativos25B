@@ -1,0 +1,127 @@
+1544  ls -la
+ 1545  ls -l
+ 1546  cd ackup
+ 1547  cd backup
+ 1548  cd Backup
+ 1549  ls
+ 1550  cd
+ 1551  sudo ./RespSep24.sh
+ 1552  ls -l
+ 1553  cd Backup
+ 1554  ls -l
+ 1555  cd
+ 1556  sudo nano RespSep24.sh
+ 1557  cd  backups
+ 1558  ls -l
+ 1559  RespSep24.sh
+ 1560  cleat
+ 1561  clear
+ 1562  ls -la
+ 1563  sudo nano RespSep24.sh
+ 1564  sudo chmod +x RespSep24.sh
+ 1565  ./ espSep24.sh
+ 1566  ./ RespSep24.sh
+ 1567  ./RespSep24.sh
+ 1568  sudo nano RespSep24.sh
+ 1569  ./RespSep24.sh
+ 1570  sudo chmod +x RespSep24.sh
+ 1571  ./RespSep24.sh
+ 1572  sudo nano RespSep24.sh
+ 1573  sudo chmod +x RespSep24.sh
+ 1574  ./RespSep24.shA
+ 1575  ./RespSep24.sh
+ 1576  ls -ld /home/jimmy/Backup
+ 1577  sudo chown -R jimmy:jimmy /home/jimmy/Backup
+ 1578  chmod 755 /home/jimmy/Backup
+ 1579  tar (child): /home/jimmy/Documentos: Cannot stat: No such file or directory
+ 1580  ls /home/jimmy/Documentos
+ 1581  sudo chmod +x RespSep24.sh
+ 1582  ./RespSep24.sh
+ 1583  ls -l
+ 1584  cd Backup
+ 1585  ls
+ 1586  clear
+ 1587  man gpg
+ 1588  gpg -h
+ 1589  sudo nano documento.txt
+ 1590  sudo cat documento.txt
+ 1591  sudo cat -n documento.txt
+ 1592  sudo gpg -c documento.txt
+ 1593  ls -l
+ 1594  sudo cat documento.txt.gpg
+ 1595  rm documento.txt
+ 1596  ls -l+
+ 1597  ls -l
+ 1598  sudo cat documento.txt.gpg
+ 1599  gpg docuemnto.txt.gpg
+ 1600*
+ 1601  ls -l
+ 1602  sudo cat documento.txt
+ 1603*
+ 1604  gpg -ca docuemnto.txt
+ 1605  gpg -ca documento.txt
+ 1606  ls -l
+ 1607  sudo cat documento.txt.asc
+ 1608  sudo nano documento.txt.asc
+ 1609  gpg -h
+ 1610  gpg -c --cipher-algo aes256 documento.txt
+ 1611  ls -l
+ 1612  sudo gpg -c --cipher-algo aes256 documento.txt
+ 1613  ls -l
+ 1614  cat documento.txt
+ 1615  cat documento.txt.gpg
+ 1616  sudo cat documento.txt.gpg
+ 1617  sudo nano MyPer.txt
+ 1618  gpg -c  MyPer.txt
+ 1619  sudo cat MyPer.txt.gpg
+ 1620  sudo nano yourper.txt
+ 1621  gpg ca yourper.txt
+ 1622  gpg -ca yourper.txt
+ 1623  sudo cat yourper.txt
+ 1624  ls -l
+ 1625  sudo cat yourper.txt.asc
+ 1626  sudo nano weper.txt
+ 1627  gpg -c --cipher-algo aes256 weper.txt
+ 1628  ls
+ 1629  sudo cat  weper.txt.gpg
+ 1630  sudo nano weper.txt.pgp
+ 1631  sudo nano weper.txt.gpg
+ 1632  sudo cat  weper.txt.gpg
+ 1633  gpg -c --cipher-algo aes192 weper.txt
+ 1634  sudo cat weper.txt.gpg
+ 1635  gpg -c --cipher-algo aes192 MyPer.txt
+ 1636  sudo cat MyPer.txt.gpg
+ 1637  gpg -h
+ 1638  pwd
+ 1639  cd ..
+ 1640  pws
+ 1641  pwd
+ 1642  pgp -h
+ 1643  gpg -h
+ 1644  cd /home/jimmy/.gnupg
+ 1645  ls
+ 1646  ls -l
+ 1647  cd private-keys-v1.d
+ 1648  ls -l
+ 1649  cd ..
+ 1650  pwd
+ 1651  ls -l
+ 1652  cd ..
+ 1653  ls -l
+ 1654  gpg --full-gen-key
+ 1655  gpg -k
+ 1656  sudo gpg --export -a jimmy > llaves.asc
+ 1657  sudo gpg --export -a jimmy_fonseca_android@hotmail.com > llaves.asc
+ 1658  cd jimmy
+ 1659  sudo gpg --export -a jimmy > llaves.asc
+ 1660  ls -l
+ 1661  sudo cat llaves.asc
+ 1662  clear
+ 1663  cd
+ 1664  cleaftr
+ 1665  clear
+ 1666  ls -l
+ 1667  sudo gpg --import  llavesHaz.asc
+ 1668  gpg -h
+ 1669  ls -l
+ 1670  history
